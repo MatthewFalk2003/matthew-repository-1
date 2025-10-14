@@ -1,22 +1,21 @@
 body{
-    background:green;
-    color: #70003D;
-    margin: 100px;
+    background:#6082B6;
+    color: #963B3B;
+    margin: 150px;
 }
 p{
-    color: #FF33F0;
+    color: black;
 }
 .noun{
     font-weight: 900;
     color: black;
 }
 p.noun{
-    color:white;
+    color:purple;
 }
 img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
+  border: 4px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
   width: 150px;
-
 }
